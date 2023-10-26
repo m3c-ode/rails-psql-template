@@ -22,3 +22,12 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+## Template for basic rails app - api
+- Running PostgreSQL
+- Bcrypt
+- jbuilder
+- rspec
+- dotenv
+- solargraph
+- spring
